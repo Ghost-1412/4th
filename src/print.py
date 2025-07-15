@@ -1,1 +1,1 @@
-print("sonarqube gulu gulu ooga booga"):
+print("sonarqube gulu gulu ooga booga")
